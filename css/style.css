@@ -1,7 +1,7 @@
 body {
     background-image: linear-gradient(rgba(243, 234, 233, 0.666), rgba(243, 234, 233, 0.666)),
     url('../img/1.jpg');
-    background-size: cover;
+    background-size: fixed;
     align-items: center;
     justify-content: center;
     flex-direction: column;
